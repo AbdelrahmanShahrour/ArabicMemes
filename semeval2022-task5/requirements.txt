@@ -1,0 +1,14 @@
+detectron2
+torch
+torchMetrics
+transformers
+pandas
+pickle
+pytorch-lightning
+matplotlib
+seaborn
+sklearn
+numpy
+nltk
+cv2
+re
